@@ -1,6 +1,7 @@
 # Pythonportfolio
 Python code
 Python - Instacart Analysis
+
 Population flow diagram was created, Python was used to perform data consistency and wrangling steps, columns derived, analysis performed, visualizations generated and recommendations sent to client.
 
 
